@@ -1,10 +1,5 @@
 # Business Card
 
-![screenshot](./screenshots/Screenshot_20250124_113954.png)
 
-<style>
-img {
-  max-width: 50rem;
-  max-height: 50rem;
-}
-</style>
+<img src="./screenshots/Screenshot_20250124_113954.png"  width="200px" height="400px">
+
